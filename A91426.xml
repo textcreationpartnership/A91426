@@ -1,0 +1,593 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The poet's blind mans bough, or have among you my blind harpers : being a pretty medicine to cure the dimme, double, envious, partiall, and diabolicall eyesight and iudgement of those dogmaticall, schismaticall, aenigmaticall, and nou [sic] gramaticall authors who lycentiously, without eyther name, lycence, wit or charity, have raylingly, falsely, and foolishly written a numerous rable of pesteferous pamphelets in this present (and the precedent yeare, / justly observed and charitably censured, by Martine Parker.</title>
+            <author>M. P. (Martin Parker), d. 1656?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91426</idno>
+            <idno type="STC">Wing P443</idno>
+            <idno type="STC">Thomason E172_6</idno>
+            <idno type="STC">ESTC R212687</idno>
+            <idno type="EEBO-CITATION">99871276</idno>
+            <idno type="PROQUEST">99871276</idno>
+            <idno type="VID">157058</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91426)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157058)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E172[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The poet's blind mans bough, or have among you my blind harpers : being a pretty medicine to cure the dimme, double, envious, partiall, and diabolicall eyesight and iudgement of those dogmaticall, schismaticall, aenigmaticall, and nou [sic] gramaticall authors who lycentiously, without eyther name, lycence, wit or charity, have raylingly, falsely, and foolishly written a numerous rable of pesteferous pamphelets in this present (and the precedent yeare, / justly observed and charitably censured, by Martine Parker.</title>
+                  <author>M. P. (Martin Parker), d. 1656?</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>By F. Leach, for Henry Marsh, and are to bee sold at his shop over against the golden Lyon Taverne in Princes street,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>There is no closing parenthesis in title.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157058:1" rendition="simple:additions"/>
+            <p>THE Poet's Blind mans bough, OR Have among you my blind Harpers:</p>
+            <p>BEING A pretty medicine to cure the Dimme, Double, Envious, Partiall, and Diabolicall eyeſight and Iudgement OF Thoſe Dogmaticall, Schiſmaticall, Aenigmaticall, and nou Gramaticall Authors who Lycentiouſly, without eyther Name, Lycence, Wit or Charity, have raylingly, falſely, and fooliſhly written a numerous rable of peſteferous Pamphelets in this preſent (and the precedent yeare, juſtly obſer<g ref="char:EOLhyphen"/>ved and charitably cenſured,</p>
+            <p>By <hi>Martine Parker.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>F. Lea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h,</hi> for <hi>Henry Marſh,</hi> and are to bee ſold at his ſhop over againſt the golden <hi>Lyon Taverne</hi> in Princes ſtreet. 1641.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:157058:2"/>
+            <pb facs="tcp:157058:2"/>
+            <head>TO THE TRVLY IVDICIOVS, IMPARTIALL CHARITABLE, AND IMPREIVDICATED CHRI<g ref="char:EOLhyphen"/>ſtian Reader of what quality, age or ſex ſoever, the Authour dedicates his poore endevors and referrs himſelfe with the ſame.</head>
+            <lg>
+               <head>1.</head>
+               <l>RIigh Honourable, Worſhípfull, and right</l>
+               <l>Iuditious Chrian Readers be content,</l>
+               <l>Kindly t'accept what (to give all delight,</l>
+               <l>And vindicate my ſelfe) I did invent,</l>
+               <l>For to no other end this time I ſpent</l>
+               <l>But in this ſmall compendium to frame</l>
+               <l>Something thae's ſhort and true; Lyers to ſhame.</l>
+            </lg>
+            <lg>
+               <head>2.</head>
+               <l>Heer's matter both for modeſty and ſport,</l>
+               <l>With charitable reprehentions for</l>
+               <l>Thoſe who have fill'd both Countrey, Citie, Court</l>
+               <l>And Campe with Lybells voyd of reaſon, or</l>
+               <l>The feare of Heaven (who doth ſuch things abhor)</l>
+               <l>Buy, Reade, and Iudge, then queſtionleſſe you'll ſay,</l>
+               <l>That I have ſhowne faire (for their baſe) foule play</l>
+            </lg>
+            <lg>
+               <head>3.</head>
+               <l>Still I hope good men will contented be,</l>
+               <l>With what is Publiſh'd by (abus'd) <hi>M. P.</hi>
+               </l>
+               <l>Who never wrot but in the Iuſt defence,</l>
+               <l>Of's King and Countrey; now's owne innocence.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:157058:3"/>
+            <pb facs="tcp:157058:3"/>
+            <head>THE POET'S BLIND MANS BOVGH.</head>
+            <l>COme <hi>Niminſis</hi> lend me little twigge,</l>
+            <l>Though theſe delinquents faults are very big,</l>
+            <l>Yet I (though much exaſperared) will</l>
+            <l>Mixe mercy with revenge; doe good for ill.</l>
+            <l>My worke may now be tearm'd a demy Satir,</l>
+            <l>My muſe hates Railing, as ſhee Scornes to Flatter,</l>
+            <l>Though Iuſtice hold her ſcales with equall poyſe,</l>
+            <l>Charity ſways the beame; ſhe none deſtroyſe,</l>
+            <l>Some ſhee will check, and tell them of their deeds,</l>
+            <l>From which rebuke if happily proceeds,</l>
+            <l>Any amendment, ſhe'll be like the nurſe,</l>
+            <l>That whipps a child whom ſhe loves ne'r the worſe,</l>
+            <l>Should I but give them their deſerved due,</l>
+            <l>Whom though I know not that moſt ſhameleſſe crew</l>
+            <l>Ofn meleſſe Authers, Authors all of lies,</l>
+            <l>Of ſlanderous Paſquills rayling falicies,</l>
+            <l>I might my pen dip in that learnean Sinke,</l>
+            <l>Which the infernall furies uſe for ink,</l>
+            <l>Or with Iambean rimes Ironicall,</l>
+            <l>Make lines ſhould ſerve for ropes to hang them all</l>
+            <l>But noe ſuch cruelty is in my breaſt,</l>
+            <l>All my abuſes I can take in Ieſt,</l>
+            <l>And give ſuch Ideots leave to write or ſpeak.</l>
+            <l>Eagles ſleight notice take when crowes doe creake</l>
+            <l>You cankers of the ſtate, nay rather you.</l>
+            <l>Vulters; when law and death have ſaid their due,</l>
+            <pb facs="tcp:157058:4"/>
+            <l>Doe even gnaw the heart of him that's deade,</l>
+            <l>In this regard may't not be truely ſo ſaid,</l>
+            <l>That you are Pluto's fidlers; that for pay,</l>
+            <l>Vpon the guts oth dead do play and pray,</l>
+            <l>Preſumptious, Petulent, flagitious, dolts doſt,</l>
+            <l>Vntrue, unſerviceable, unback'd cotes,</l>
+            <l>Durſt you beyond the letter of the Law,</l>
+            <l>Preſume among your ſelves to hang and draw</l>
+            <l>You doe aſume the place, to ſay the troth,</l>
+            <l>Of Aprehender, Iudge, and hangman both,</l>
+            <l>When any hath offended 'gainſt the ſtate</l>
+            <l>Muſt ſuch as you the fact exagerate,</l>
+            <l>Have you ſuch cleare eyes that you can eſp'y,</l>
+            <l>The litle moate that's in your brothers eye,</l>
+            <l>Making a mountaine of each molehill when</l>
+            <l>You doe not ſee the beams (O ſenceleſſe men)</l>
+            <l>That in your owne eyes ſo prevents your Sight</l>
+            <l>And Iudgement that you dare (bee't wrong or right)</l>
+            <l>Save or condemne at pleaſure; can your pates,</l>
+            <l>Determine more then Law or Magiſtrates,</l>
+            <l>Of theſe your facts he who will cenſure beſt,</l>
+            <l>Cannot but ſay that you intend to wreſt,</l>
+            <l>The ſword of Iuſtice from the hand of them</l>
+            <l>To whom ti's due by Iuſtice to condemne,</l>
+            <l>Or ſave with mercy; heaven forbid I ſhould,</l>
+            <l>Excuſe the faults of thoſe whom Law doth hold,</l>
+            <l>Worthy of puniſhment, or death, or bonds,</l>
+            <l>My very Soule moſt aptly Coreſponds,</l>
+            <l>With this; and ſo it ever ſhall that thoſe,</l>
+            <l>Whom Law doth prove my King or countreys foes,</l>
+            <l>That they have their demerits, curſt be him,</l>
+            <l>(For my part) that where Iuſtice doth condemne,</l>
+            <l>Will wiſh to ſave; eſpecially Such men,</l>
+            <l>Whoſe deeds deſerves worſe then a vulgar pen.</l>
+            <pb facs="tcp:157058:4"/>
+            <l>Upon them can conferre; yet (take my word)</l>
+            <l>More danger comes bith'quill then by the Sword,</l>
+            <l>Let thoſe delinquents of the higher ſtraine,</l>
+            <l>Alone with what is ſaid; and now againe,</l>
+            <l>My muſe returnes unto her taske: which is</l>
+            <l>To tell theſe Libellers what deepe abuſe,</l>
+            <l>Of helliſh skill, th'ave ſounded to compoſe,</l>
+            <l>Such fond invectives both in rime and proſe.</l>
+            <l>Nay come along ner'e ſhrinke or bluſh for ſhame,</l>
+            <l>Their none knowes either of you by your name;</l>
+            <l>Thoſe you were 'ſham'd to ſhow, ther's reaſon for't,</l>
+            <l>Leaſt after ages a deſerved ſport</l>
+            <l>Might make of you (or your poſterity,)</l>
+            <l>Vnnam'd the Authors ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me with's lines will dy.</l>
+            <l>But my deſire and whole intent is that,</l>
+            <l>Your folly being in generall aimed at</l>
+            <l>Each on may take his ſhare of ſhame and ſay,</l>
+            <l>In doing this I have not ſhewed faire play:</l>
+            <l>For what is either more or leſſe ſet forth</l>
+            <l>'gainſt perſons in particular; what worth</l>
+            <l>Or ſame among the vulgar it may win</l>
+            <l>Without the Authors name't hath ever bin</l>
+            <l>Held as a Lybell both in Law and ſence,</l>
+            <l>Then he who writes (what e're be his pretence)</l>
+            <l>His name ſhould iuſtifie what he hath done,</l>
+            <l>This maxim I have alwaies thought upon</l>
+            <l>What ever yet was publiſhed by mee,</l>
+            <l>Was knowne by <hi>Martin Parker,</hi> or M.P.</l>
+            <l>All Poets (as adition to their ſames)</l>
+            <l>Have by their Works eternized their names,</l>
+            <l>As Chaucer, Spencer, and that noble earle,</l>
+            <l>Of Surriet ought it the moſt precious pearle,</l>
+            <l>That dick'd his honour, to Subſcribe to what</l>
+            <l>His high engenue ever amed at</l>
+            <pb facs="tcp:157058:5"/>
+            <l>
+               <hi>Sydney</hi> and <hi>Shaksſpire, Drayton, Withers</hi> and</l>
+            <l>Renowned <hi>Ionſon</hi> glory of our Land:</l>
+            <l>
+               <hi>Deker,</hi> Learn'd <hi>Chapman, Haywood</hi> althought good,</l>
+            <l>To have their names in publike underſtood,</l>
+            <l>And that ſweet Seraph of our Nation, <hi>Quarles</hi>
+            </l>
+            <l>(In ſpight of each planatick cur that ſnarles)</l>
+            <l>Subſcribes to his Celeſtiall harmony,</l>
+            <l>While Angels chant his Dulcid melodie.</l>
+            <l>And honeſt <hi>Iohn</hi> from the water to the land</l>
+            <l>Makes us all know and honour him by's hand;</l>
+            <l>And many more whoſe names I ſhould have told</l>
+            <l>In their due place, in famous record inrould.</l>
+            <l>Have thought it honeſt honour to ſet downe</l>
+            <l>Their names or letters to what is their owne:</l>
+            <l>But you a litter of blind whelps begot</l>
+            <l>By Cerberus, the ſcumme of natur's pot,</l>
+            <l>Suborn'd by malice and a litle gaines,</l>
+            <l>Invent and publiſh what your frothy braines,</l>
+            <l>Envaporate ſome proſe and ſome in rimes,</l>
+            <l>Onely to pleaſe the fancie of the times</l>
+            <l>Idle Chemeras, ſtructurs ſeeming faire,</l>
+            <l>Which vew'd, are prov'd meere caſtles in the aire.</l>
+            <l>Almanake Makers, were they of your minde,</l>
+            <l>(In ſtead of Saints to every day a ſign'd)</l>
+            <l>Might make a tranſmutation, and name all</l>
+            <l>By your quotiadian Pamphlets criticall,</l>
+            <l>And dayes caniculer ſhould laſt all th' yeare,</l>
+            <l>If curiſh writers they may domineere;</l>
+            <l>The Preſſe is overpreſt, and (juſtly) grones</l>
+            <l>Vnder the burthen of thoſe heavie tones</l>
+            <l>Of Scritch-oule muſick, threatning death and hell,</l>
+            <l>One ſtriving all in malice to excell;</l>
+            <l>And he who can beſt rayle, ſcoffe, and invent,</l>
+            <l>The greateſt lyes, ſhall give the moſt content:</l>
+            <pb facs="tcp:157058:5"/>
+            <l>Is this the age that doth moſt truth profeſſe,</l>
+            <l>Are theſe the dayes of zeale and righteouſneſſe;</l>
+            <l>Are theſe the times that hath more light diſcover'd</l>
+            <l>Revealing ſecrets that in darknes er'd</l>
+            <l>Why then, O why are lyes and falſhhoods ſpread,</l>
+            <l>Shall men by lying earne their daily bread:</l>
+            <l>Shall truth thus ſuffer paper perſecution,</l>
+            <l>Shall things well ordred hazard a confuſion</l>
+            <l>By thoſe unſanctified pens which write</l>
+            <l>Nothing but what to miſchiefe may incite,</l>
+            <l>Inventing ſtill the theory of plots</l>
+            <l>Which none to practiſe ever thought theſe ſots</l>
+            <l>Bewray their folly; for they want both wit</l>
+            <l>And judgement, for their fables doe not fit</l>
+            <l>The laſt of probability, which ſhould,</l>
+            <l>Produce ſuch reaſons for the tale that's told,</l>
+            <l>That they who heare it may conjecture that</l>
+            <l>It may be true; but theſe men care not what</l>
+            <l>They write, be't contradictory or not,</l>
+            <l>So they can get the ſilver by the plot;</l>
+            <l>But (as friends) I friendly them adviſe,</l>
+            <l>That if hereafter they write any lyes</l>
+            <l>Let them mote likely be then that which was</l>
+            <l>Compoſed by ſome ſhort hayr'd, long ear'd Aſſ,</l>
+            <l>Of a ſtrange plot (beyond immagination</l>
+            <l>To give the Arch-Biſhop his free relaxation</l>
+            <l>Out of the Tower by Necromantick ſpells,</l>
+            <l>Themſelves did only know it, but none els.</l>
+            <l>Note how that ancient lyer (moſt accurſt,)</l>
+            <l>A lyer even from the very firſt</l>
+            <l>Beginning of the world, by's inſtruments,</l>
+            <l>With ſubtilty mens judgements circumvents,</l>
+            <l>Making the fabrick of his building all</l>
+            <l>Of lyes, which fooles eſteeme Authenticall;</l>
+            <pb facs="tcp:157058:6"/>
+            <l>Yet power divine ſo boundeth him and his,</l>
+            <l>That of there envious aimes they often mis,</l>
+            <l>Shaming themſelves (by over reaching) ſo,</l>
+            <l>That even to fooles, their ſhame they freely ſho,</l>
+            <l>As well appeares in this immagin'd plot,</l>
+            <l>Making the world beleeve that which was not</l>
+            <l>Had ſuch a thing (being 'twas knowne a fiction,</l>
+            <l>And might at hom expect a contradiction)</l>
+            <l>Bin fain'd to be in Cornwall or in Wales,</l>
+            <l>Cumberland, or Yorkeſhire; then ſuch tales</l>
+            <l>Perhaps might win beleefe; but heere i'the city</l>
+            <l>Where every child of eight yeares old that's witty,</l>
+            <l>Knowes there was no ſuch thing, oh what diſgrace</l>
+            <l>Is this toth' Author durſt he ſhow his face,</l>
+            <l>Or ſet his name toth' fable, ſtay there ſir,</l>
+            <l>Wee'll not be knowne ſo palpably to er;</l>
+            <l>The aime the Authour ſhot at is to bring</l>
+            <l>Papiſts in hatred; 'tis a pious thing.</l>
+            <l>But tell me brother (how orby what chance)</l>
+            <l>Cam'ſt thou to play on peoples ignorance,</l>
+            <l>Think'ſt thou the worlds all wild and all men mad,</l>
+            <l>That they'll condeme thoſe whom thou counteſt bad,</l>
+            <l>Hath not the Honorable Parliament,</l>
+            <l>(That hopefull Senate) wiſedome to prevent,</l>
+            <l>Such machinations (if there any were)</l>
+            <l>But who muſt dictate to them, do'ſt not feare,</l>
+            <l>Future examinations for ſuch crimes</l>
+            <l>Or doſt thou meane ever to truſt theſe times:</l>
+            <l>What is th'archbiſhop to the Papiſts that</l>
+            <l>They ſhould adventure life and frrtune at</l>
+            <l>So deare a rate, he never was their friend,</l>
+            <l>Arminians never did on Roome depend;</l>
+            <l>Tis knowne apparently what ſad report,</l>
+            <l>Papiſts may give the High commiſsion Court;</l>
+            <pb facs="tcp:157058:6"/>
+            <l>'Twas high indeede for them, two high a rate</l>
+            <l>Poore men did pay: which might exact a hate</l>
+            <l>Rather then love; but charity ſayes no,</l>
+            <l>Let law take place, 'tis fit it ſhould be ſo,</l>
+            <l>Heaven grant his Grace from the well ſpring of grace,</l>
+            <l>And that he may returne while hee hath ſpace</l>
+            <l>Vnto the throwne of grace; by penetence,</l>
+            <l>Let us not agravate what's his offence:</l>
+            <l>Nor whiles I'm ſpeaking of th'Archbiſhops caſe,</l>
+            <l>Let me examine that malicious baſe,</l>
+            <l>And ſenceleſſe Libell Mercuries Meſſage nam'd,</l>
+            <l>Whom the Authour to recognize was aſham'd.</l>
+            <l>And well he might, for amongſt his lyes unholy</l>
+            <l>One thing ath' firſt doth moſt bewray his folly,</l>
+            <l>And that's the Cronagram which he to make</l>
+            <l>Upon th' Arch-biſhops name doth undertake;</l>
+            <l>And by the numegall letters there expreſſe</l>
+            <l>He would denote the number of the beaſt</l>
+            <l>Mention'd in the Apocalips which is,</l>
+            <l>Six hundred ſixtie ſix, now cenſure his,</l>
+            <l>Deduction and doubt not but you'll finde</l>
+            <l>(As I have done) the beaſt lay's beaſtly minde,</l>
+            <l>How like a monſtrous beaſt 'twixt dogge and aſſe</l>
+            <l>He enviouſly and ſimply doth paſſe,</l>
+            <l>His verdiction the man, for thus writes he</l>
+            <l>'Tis <hi>WILL: LAWD,</hi>
+            </l>
+            <l>Two V's he numbers ten J one, three L's,</l>
+            <l>Seven ſcore and ten, (thus he his leſſon ſpeles)</l>
+            <l>V for five more, D for five hundred, thus</l>
+            <l>He makes ſixe hundred ſixtie ſixt, let us</l>
+            <l>Confeſſe 'tis true ſo farre, but to condem</l>
+            <l>The Priſoner, he omits both I and M,</l>
+            <l>Which is the name, and makes the number even,</l>
+            <l>One thovſand ſixe hundred ſixty ſeven.</l>
+            <pb facs="tcp:157058:7"/>
+            <l>See now this envious Cynick, how to win,</l>
+            <l>Credit 'mongſt fooles commits a deadly ſin,</l>
+            <l>For ſurely malice was predominant.</l>
+            <l>Nor can I think the foole ſo Ignorant;</l>
+            <l>As that he would or could aſſume to frame;</l>
+            <l>A Chronagram and knew not the right name,</l>
+            <l>Or elſe his ſpight was ſo toth' Biſhops that,</l>
+            <l>He would deprive him oth' moſt part of what,</l>
+            <l>His God-father did give him at the Font.</l>
+            <l>Is this your calculation, out upon't;</l>
+            <l>But ſhould this envious Authour undertake,</l>
+            <l>A Chronagram or Anagram to make;</l>
+            <l>For any one of whom he is a lover,</l>
+            <l>Wer't an unlern'd Tranſlator or a Glover;</l>
+            <l>A Currier or a Weaver, then no doubt,</l>
+            <l>Rather then hee would leave leter out,</l>
+            <l>Hee'd venture to exchange or elſe to adde,</l>
+            <l>So he could make a good ſence of a bad:</l>
+            <l>He would (perhaps) But M. In the N's place,</l>
+            <l>To make it anſwer to the yeare of grace.</l>
+            <l>But the Arch-Biſhop (whom few now applaud)</l>
+            <l>Muſt be contented to be called Will Laud.</l>
+            <l>But one thing I much marvell at; which is,</l>
+            <l>That he who anſwerd it, with th' cimphaſis,</l>
+            <l>Of wit and ſence; who ſtoutly did defend,</l>
+            <l>the arch-Biſhop as his Champion and true friend,</l>
+            <l>Exacting praiſe from ſome, from others blame,</l>
+            <l>Yet never cenſur'd this falſe chronagram</l>
+            <l>Which negligence and monſterous over-fight,</l>
+            <l>Extenuats his credit who did write,</l>
+            <l>That Vindication; paſſed as the reſt,</l>
+            <l>Without the Authors name: though it is gueſt,</l>
+            <l>That Thomas Herbert wrote it, but that fame,</l>
+            <l>Roſe from th'Acroſtick known to be his name,</l>
+            <pb facs="tcp:157058:7"/>
+            <l>Written by him ath' end oth' booke, that's all,</l>
+            <l>The reaſon which indeed's irationall.</l>
+            <l>For no man that's the authour of a booke</l>
+            <l>But ſets his name whereon all eaſly looke</l>
+            <l>Upon the frontiſpeece (or title page)</l>
+            <l>Vnleſſe he be propoſterous (like the age,)</l>
+            <l>But let that paſſe; for I muſt paſſe from this</l>
+            <l>To other things, wherein are more amis;</l>
+            <l>More malice; more abſurdity, and more</l>
+            <l>Nonſence then any mentioned before,</l>
+            <l>A plot diſcover'd of an army good,</l>
+            <l>Secretly lurking in a private wood.</l>
+            <l>If any ſuch be in <hi>Northhamptonſhire</hi>
+            </l>
+            <l>Where Souldiers, all unknowne to th' neighbours neere</l>
+            <l>Could lie in ambuſh ſuch a multitude,</l>
+            <l>And be maintain'd with quotidian-food,</l>
+            <l>With other neceſſaries fit for men</l>
+            <l>Let any of indifferent judgement ſcan</l>
+            <l>Each circumſtance of this pretended plot,</l>
+            <l>And they will finde the Authour out a Sot:</l>
+            <l>One that ſo farre beyond all diſſability</l>
+            <l>Doth ſtretch his lyes (which ſhewes his imbiſcility)</l>
+            <l>That even to children he bewraies his ſhame,</l>
+            <l>One man's the Authour of both plots, his name <note place="margin">Iohn Thomas.</note>
+            </l>
+            <l>I ſince have underſtood, who on no ground</l>
+            <l>But his peſteferous fancy to confound,</l>
+            <l>Thoſe who ne'er meant him harme</l>
+            <l>That this his poyſonous venim ſpits a broad,</l>
+            <l>Bewraying envy, Ignorance, and ſpleene</l>
+            <l>And all in vaine, for not one in fifteene</l>
+            <l>Gives credit to's narrations; and thoſe few,</l>
+            <l>That are ſo confident to thinke all tru<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,</l>
+            <l>Are ſome whoſe judgements are p<gap reason="illegible" resp="#UOM" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>cated</l>
+            <l>With malice; people ſo conſop<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </l>
+            <pb facs="tcp:157058:8"/>
+            <l>In miſchife; muſt by ignorance that they</l>
+            <l>Beleeve what any one can write or ſay,</l>
+            <l>So't be 'gainſt thoſe whom they do affect</l>
+            <l>But any of well govern'd intelect</l>
+            <l>(Whoſe iudgements are with reaſon regulated)</l>
+            <l>Will ſay of Knave and foole naught can be bated,</l>
+            <l>So let him reſt till heaven turne his heart,</l>
+            <l>To mixe more charity with his ſmall art,</l>
+            <l>That he and all the reſt oth' Pamphletees,</l>
+            <l>May uſe more fervent prayers, and fewer Ieeres,</l>
+            <l>To practiſe truth (which all of them pretend,</l>
+            <l>And not their pretious time ſo lewdly ſpend</l>
+            <l>In ſowing teares of Schiſmie and debate,</l>
+            <l>By devilliſh meanes falſehood to propogate;</l>
+            <l>Shaming themſelves, not whom they ſeeke to ſhame,</l>
+            <l>Blaming of other people, when the blame</l>
+            <l>Upon their owne heads iuſtly may be layd</l>
+            <l>I doe admire that they are not afrayd,</l>
+            <l>Of divine Iudgement which on them might fall,</l>
+            <l>When againſt conſcience and law rationall,</l>
+            <l>They doe invent ſuch execrable lies,</l>
+            <l>To make men odious in the peoples eyes,</l>
+            <l>Contrary to all charity, and grace</l>
+            <l>Making their fond Chemeras to take place,</l>
+            <l>In ſtead of ſolid truth, theſe are the men</l>
+            <l>Who make a ſhew of zeale, and conſcience when</l>
+            <l>Their deedes and writings 'gainſt the publique weale</l>
+            <l>Prove they have neither conſcience, truth nor zeale;</l>
+            <l>Charity bids us pray one for another,</l>
+            <l>But brother here vituperates his brother:</l>
+            <l>But why (may ſome men ſay) ſhould this man be</l>
+            <l>The onely Cenſurer; could none but he</l>
+            <l>Eſpie theſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> muſt he be the only man</l>
+            <l>The workes <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> men to ſearch and ſcan,</l>
+            <pb facs="tcp:157058:8"/>
+            <l>Yes reader whoſoev'r thou be I this</l>
+            <l>Muſt tell thee freely, there good reaſon is</l>
+            <l>For what is done or to be done, and more</l>
+            <l>Then charity will ſuffer; which in ſtore,</l>
+            <l>The authour ever keepes to regulate</l>
+            <l>His words and deedes 'gainſt all who doe him hate,</l>
+            <l>For he 'bove all the reſt hath wronged beene</l>
+            <l>Taſting the bitter gall of helliſh ſpleene,</l>
+            <l>Which theſe malignant ſerpents could eiect</l>
+            <l>To make the world his innocence ſuſpect,</l>
+            <l>In diverſe pamphlets, what e're curriſh barker</l>
+            <l>The authour was, he ſnarl'd at <hi>Martin Parter.</hi>
+            </l>
+            <l>Nor Borealiſt by ſome brother pen,</l>
+            <l>Yet father'd on aſect to this end,</l>
+            <l>To bring me in diſgrace; as though I had,</l>
+            <l>Bin puniſht heretofore for writing bad,</l>
+            <l>Calling me th'Prelats Poet and ſuch tearmes,</l>
+            <l>Which nothing but his ſpight at all confirmes,</l>
+            <l>For I ne're wrot ith' Biſhops cauſe ſo much,</l>
+            <l>As now I have on this occaſion touch.</l>
+            <l>Another fooliſh idle defamation</l>
+            <l>That is intitl'd the Popiſh Proclamation,</l>
+            <l>The unnam'd Authour (as in all a raylor)</l>
+            <l>Ocaſion takes to abuſe me and <hi>Iohn Taylor</hi>
+            </l>
+            <l>With <hi>Herbert,</hi> but wherefore I cannot tell,</l>
+            <l>Nor he himſelfe that wrote it very well;</l>
+            <l>For hee one whom though his will were bent,</l>
+            <l>Wanteth abilitie for his intent:</l>
+            <l>And yet he could in his bare garden ſtuffe,</l>
+            <l>(Which with Tobaco I doe take in ſnuffe)</l>
+            <l>Take liberty to name me in his Ieeres,</l>
+            <l>But in his workes ſuch plaine nonſence appeares,</l>
+            <l>That I accout his pen to be no ſlander,</l>
+            <l>From true method he ſo farre doth wander,</l>
+            <pb facs="tcp:157058:9"/>
+            <l>That all who read may judge (if they have wit)</l>
+            <l>That what he writes although his name's to it,</l>
+            <l>Deſerves no approbation; yet this lad</l>
+            <l>I malice not, but rather ſhould be glad,</l>
+            <l>To know him change his envy for more skill</l>
+            <l>He can'ot diſgrace me, writing what he will.</l>
+            <l>Thus much for him, and indeede all the reſt</l>
+            <l>To none I am angry an enemie proteſt,</l>
+            <l>But wiſh them more good then themſelves will doe,</l>
+            <l>I will be patient and Phyſitian too.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <l>PErhaps the Reader may expect I ſhould,</l>
+            <l>More of theſe ſlaunderus, envious ſleights unfold,</l>
+            <l>Becauſe they more deſerve; indeed tis true</l>
+            <l>Write what I can I ſhan't give them their due:</l>
+            <l>This little therefore ſerveth for a taſte,</l>
+            <l>By which more may be gueſt there's too much waſte</l>
+            <l>Of paper made alread, in two yeares:</l>
+            <l>By theſe calumnious idle pamphleteeres,</l>
+            <l>Should this diurnall Laviſh, two yeares more</l>
+            <l>Continue; we may feare (there's cauſe wherefore)</l>
+            <l>That we ſhould ſcarce get paper for good uſe,</l>
+            <l>If we perſevere in this great abuſe,</l>
+            <l>I have but broke the Ice, ſome coadiuters</l>
+            <l>Will helpe to ſcourge theſe paper-perſecuters.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
